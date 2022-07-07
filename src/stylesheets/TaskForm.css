@@ -2,8 +2,9 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 100%;
+  width: 90%;
   margin-bottom: 2.5rem;
+  flex-wrap: wrap;
 }
 
 .task-input {
@@ -14,6 +15,7 @@
   border-top-left-radius: 5px;
   border-bottom-left-radius: 5px;
   height: 4rem;
+  flex-grow: 2;
 }
 
 .task-button {

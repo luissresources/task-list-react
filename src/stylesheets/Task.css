@@ -3,13 +3,13 @@
   justify-content: space-between;
   align-items: center;
   background-color: var(--blueDull);
-  width: 85%;
+  width: 90%;
   padding: 1rem 2rem;
   border-radius: 5px;
   cursor: pointer;
   height: auto;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
 }
 
 .container-task:nth-child(3n+1) {
@@ -40,6 +40,7 @@
 .task-item {
   color: #fff;
   overflow-wrap: anywhere;
+  width: 100%;
 }
 
 .task-icon {

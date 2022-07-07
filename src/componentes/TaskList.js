@@ -1,7 +1,7 @@
 import React, {useState} from 'react';
 import TaskForm from './TaskForm';
 import Task from './Task';
-import '../stylesheets/TaskForm.css';
+import '../stylesheets/TaskList.css';
 
 function TaskList(){
 

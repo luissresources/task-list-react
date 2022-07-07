@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import Logo from './componentes/Logo';
 import TaskList from './componentes/TaskList';
-import imagenLogo from './imagenes/logo.png'
+import imagenLogo from './imagenes/logo-2.png'
 
 function App() {
 
