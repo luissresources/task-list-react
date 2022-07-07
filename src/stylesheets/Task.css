@@ -7,7 +7,24 @@
   padding: 1rem 2rem;
   border-radius: 5px;
   cursor: pointer;
-  height: auto
+  height: auto;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.container-task:nth-child(3n+1) {
+  background-color: blueDull;
+  opacity: 0.9;
+}
+
+.container-task:nth-child(3n+2) {
+  background-color: blueDull;
+  opacity: 0.8;
+}
+
+.container-task:nth-child(3n+3) {
+  background-color: blueDull;
+  opacity: 0.7;
 }
 
 .container-task:hover {
